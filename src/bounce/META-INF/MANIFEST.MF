@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MIDlet-1: Bounce sefan.ru, /icons/icon.png, com.nokia.mid.appl.boun.Bo
+ unce
+MIDlet-Vendor: Nokia
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: Bounce sefan.ru
+MIDlet-Version: 1.8
+MIDlet-Icon: /icons/icon.png
+MicroEdition-Profile: MIDP-2.0
+
